@@ -10,7 +10,7 @@ A cybersecurity internship website that explains ISO 27001, ISO/IEC 27002, ISO 2
 - `iso27001-checklist.html` - Interactive ISO 27001 audit checklist
 - `iso42001.html` - ISO 42001:2023 AI governance overview
 - `comparison.html` - Comparison table for all documents
-- `resources.html` - Downloadable original summary notes
+- `resources.html` - Downloadable original PDF summary notes
 
 ## Features
 
@@ -18,7 +18,7 @@ A cybersecurity internship website that explains ISO 27001, ISO/IEC 27002, ISO 2
 - Separate pages for each ISO topic
 - Interactive checklist progress counter
 - Search box for checklist items
-- Downloadable summary notes
+- Downloadable professional PDF summary notes
 - Responsive layout for desktop and mobile
 - Original educational summaries
 
