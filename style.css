@@ -308,6 +308,15 @@ a {
   color: var(--muted);
 }
 
+.download-card {
+  display: flex;
+  flex-direction: column;
+}
+
+.download-card .button {
+  margin-top: auto;
+}
+
 .tag {
   display: inline-flex;
   align-items: center;
