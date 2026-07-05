@@ -1,0 +1,28 @@
+ISO 42001:2023 Summary Notes
+
+ISO 42001 is related to AI management systems. It helps organizations manage risks connected to developing, providing, or using artificial intelligence systems.
+
+Key AI governance areas:
+- AI policy
+- AI system inventory
+- AI risk assessment
+- Data governance
+- Human oversight
+- Transparency
+- Accountability
+- Monitoring and improvement
+- AI incident handling
+
+Common AI risks:
+- Bias and unfair outcomes
+- Privacy issues
+- Lack of explainability
+- Security attacks on AI systems
+- Incorrect or harmful AI output
+- Poor accountability
+
+Simple explanation:
+ISO 42001 helps organizations manage AI responsibly by creating policies, controls, monitoring, and accountability around AI systems.
+
+Educational note:
+These notes are original summaries for learning purposes and are not a replacement for the official ISO standard.

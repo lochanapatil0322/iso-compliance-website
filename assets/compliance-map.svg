@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Compliance audit map visual</title>
+  <desc id="desc">A stylized compliance dashboard with connected ISO standard nodes, checklist panels, and security signal lines.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#12343b"/>
+      <stop offset="0.52" stop-color="#1f4f5f"/>
+      <stop offset="1" stop-color="#0f766e"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#dff8f2" stop-opacity="0.86"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#06282d" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+  <rect width="960" height="540" rx="32" fill="url(#bg)"/>
+  <path d="M0 418 C130 360 224 444 348 394 C476 342 538 254 672 286 C792 315 832 232 960 198 L960 540 L0 540 Z" fill="#f59e0b" opacity="0.18"/>
+  <path d="M0 124 C112 90 205 160 312 118 C445 66 535 112 652 92 C784 68 858 36 960 78" fill="none" stroke="#7dd3fc" stroke-opacity="0.32" stroke-width="3"/>
+  <g opacity="0.4" stroke="#dff8f2" stroke-width="1">
+    <path d="M82 70 H878"/>
+    <path d="M82 154 H878"/>
+    <path d="M82 238 H878"/>
+    <path d="M82 322 H878"/>
+    <path d="M82 406 H878"/>
+    <path d="M160 48 V494"/>
+    <path d="M320 48 V494"/>
+    <path d="M480 48 V494"/>
+    <path d="M640 48 V494"/>
+    <path d="M800 48 V494"/>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="86" y="84" width="360" height="324" rx="26" fill="url(#panel)"/>
+    <rect x="514" y="96" width="312" height="104" rx="22" fill="#ffffff" opacity="0.94"/>
+    <rect x="514" y="226" width="312" height="104" rx="22" fill="#ffffff" opacity="0.94"/>
+    <rect x="514" y="356" width="312" height="104" rx="22" fill="#ffffff" opacity="0.94"/>
+  </g>
+  <g fill="none" stroke="#0f766e" stroke-width="5" stroke-linecap="round">
+    <path d="M446 154 C478 144 487 142 514 148"/>
+    <path d="M446 254 C476 252 489 270 514 278"/>
+    <path d="M446 348 C474 372 490 400 514 408"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="124" y="142" fill="#12343b" font-size="32" font-weight="700">ISO Compliance Hub</text>
+    <text x="124" y="177" fill="#3b5560" font-size="18">Risk, controls, audits, and AI governance</text>
+    <g transform="translate(124 226)">
+      <circle cx="28" cy="28" r="28" fill="#0f766e"/>
+      <path d="M17 28 l8 9 l17 -20" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="76" y="22" fill="#12343b" font-size="20" font-weight="700">Assess security risks</text>
+      <text x="76" y="51" fill="#526a72" font-size="15">Identify scope, assets, threats, and evidence.</text>
+    </g>
+    <g transform="translate(124 306)">
+      <circle cx="28" cy="28" r="28" fill="#2563eb"/>
+      <path d="M28 12 v32 M16 24 h24" stroke="#ffffff" stroke-width="6" stroke-linecap="round"/>
+      <text x="76" y="22" fill="#12343b" font-size="20" font-weight="700">Map controls to audit work</text>
+      <text x="76" y="51" fill="#526a72" font-size="15">Use checklists to verify implementation.</text>
+    </g>
+    <g>
+      <circle cx="552" cy="148" r="24" fill="#0f766e"/>
+      <text x="590" y="142" fill="#12343b" font-size="19" font-weight="700">ISO 27001</text>
+      <text x="590" y="169" fill="#526a72" font-size="15">ISMS requirements</text>
+    </g>
+    <g>
+      <circle cx="552" cy="278" r="24" fill="#2563eb"/>
+      <text x="590" y="272" fill="#12343b" font-size="19" font-weight="700">ISO 27002</text>
+      <text x="590" y="299" fill="#526a72" font-size="15">Security control guidance</text>
+    </g>
+    <g>
+      <circle cx="552" cy="408" r="24" fill="#f59e0b"/>
+      <text x="590" y="402" fill="#12343b" font-size="19" font-weight="700">ISO 42001</text>
+      <text x="590" y="429" fill="#526a72" font-size="15">AI management system audits</text>
+    </g>
+  </g>
+</svg>

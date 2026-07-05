@@ -1,0 +1,31 @@
+ISO 27001 Audit Checklist Summary Notes
+
+An ISO 27001 audit checklist helps auditors verify whether an organization's Information Security Management System is planned, implemented, maintained, and improved.
+
+Common audit areas:
+- ISMS scope
+- Leadership commitment
+- Information security policy
+- Risk assessment method
+- Risk treatment plan
+- Asset ownership
+- Access control
+- Security awareness
+- Incident response
+- Backup and recovery
+- Internal audits
+- Corrective actions
+- Management review
+
+Example audit questions:
+- Is the ISMS scope clearly documented?
+- Are information security risks identified and reviewed?
+- Are access rights approved and reviewed?
+- Are security incidents recorded and investigated?
+- Are audit findings tracked until closure?
+
+Simple explanation:
+The checklist converts ISO 27001 ideas into practical questions that help auditors collect evidence.
+
+Educational note:
+These notes are original summaries for learning purposes and are not a replacement for the official ISO standard.

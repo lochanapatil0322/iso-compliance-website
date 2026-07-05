@@ -1,0 +1,27 @@
+ISO/IEC 27002 Summary Notes
+
+ISO/IEC 27002 provides guidance for information security controls. It supports ISO 27001 by explaining practical control areas that can reduce information security risks.
+
+Main control categories:
+- Organizational controls
+- People controls
+- Physical controls
+- Technological controls
+
+Example control topics:
+- Access control
+- Authentication and password practices
+- Backup and recovery
+- Logging and monitoring
+- Malware protection
+- Supplier security
+- Security awareness training
+- Incident management
+- Network security
+- Secure development
+
+Simple explanation:
+ISO 27001 explains the management system. ISO 27002 helps explain the controls that can be used to protect information.
+
+Educational note:
+These notes are original summaries for learning purposes and are not a replacement for the official ISO standard.

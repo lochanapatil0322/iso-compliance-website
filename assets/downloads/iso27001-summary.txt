@@ -1,0 +1,19 @@
+ISO 27001 Summary Notes
+
+ISO 27001 is focused on creating and maintaining an Information Security Management System, also called an ISMS. The purpose of an ISMS is to help an organization manage information security risks in a planned, documented, and measurable way.
+
+Key ideas:
+- Define the scope of the ISMS.
+- Identify information assets and security risks.
+- Assess risks using likelihood and impact.
+- Select treatment actions and security controls.
+- Assign responsibilities to owners.
+- Maintain policies, records, and evidence.
+- Conduct internal audits and management reviews.
+- Improve the ISMS using corrective actions.
+
+Simple explanation:
+ISO 27001 helps an organization prove that it manages information security through a structured management system instead of random security activities.
+
+Educational note:
+These notes are original summaries for learning purposes and are not a replacement for the official ISO standard.
